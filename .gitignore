@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML artifacts
+ml/models/
+ml/data/
+*.pt
+*.h5
+*.pkl
+
+# Environment
+.env
